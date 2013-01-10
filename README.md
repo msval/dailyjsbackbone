@@ -16,4 +16,4 @@ To build the project use
 
 if you are developing in a windows platform update the grunt's package.json file to
 
-'node_modules\\\.bin\\\grunt'
+'node_modules\\\\.bin\\\grunt'

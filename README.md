@@ -12,8 +12,8 @@ After downloading run
 * npm start
 
 To build the project use
-
-npm run-script grunt
+* npm run-script grunt
 
 if you are developing in a windows platform update the grunt's package.json file to
->'node_modules\\.bin\\grunt'
+
+'node_modules\\\.bin\\\grunt'

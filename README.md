@@ -1,19 +1,19 @@
-dailyjsbackbone
-===============
+### dailyjs backbone tutorial
 
-Based on tutorial from http://dailyjs.com/2012/11/29/backbone-tutorial-1/
+Based on a tutorial series starting with http://dailyjs.com/2012/11/29/backbone-tutorial-1/
 
-Source https://github.com/alexyoung/dailyjs-backbone-tutorial/tree/2a8517e011a8e1041c7f86f8311336ffba7e85e8
+Source https://github.com/alexyoung/dailyjs-backbone-tutorial
 
-Running on port 38080 (8080 is a rather common port)
+The original project uses 8080 port, but since this port number is often in
+use for other projects I've set a default port to 38080
 
 After downloading run
-
-npm install
-npm start
+* npm install
+* npm start
 
 To build the project use
 
-npm run-script grunt 
+npm run-script grunt
 
-update the path in the package.json file for grunt to 'node_modules\\.bin\\grunt' for win platforms
+if you are developing in a windows platform update the grunt's package.json file to
+>'node_modules\\.bin\\grunt'
